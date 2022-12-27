@@ -15,7 +15,8 @@ The project is based on creating a prototype to submit our crypto portfolio prop
 
 
 
-## Installation
+## Installation:
+
 To navigate through this project, you may need to install the following on your machine :
 `Jupyter` - Running code
 `Pandas` - Data analysis
@@ -30,7 +31,7 @@ First, make sure the following libraries are running properly:
 * from sklearn.decomposition import PCA
 * from sklearn.preprocessing import StandardScaler*
 
-Second, click on the play icon on the toolbar of the Jupyter lab to start 
+Second, click on the play icon on the toolbar of the Jupyter lab to start
 
 ![Jupyter lab toolbar](Images/toolbar.png)
 
@@ -47,5 +48,5 @@ Second, click on the play icon on the toolbar of the Jupyter lab to start
 
 ## License
 
-UW Fintech 
+UW Fintech
 2022 edX Boot Camps LLC
